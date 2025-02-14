@@ -1,1 +1,1 @@
-# DevOpsDuniya
+# DevOpsDuniya application
